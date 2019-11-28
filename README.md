@@ -1,15 +1,14 @@
 # cli-todo
-Exemplo de CLI em NodeJS
-
+Exemplo de CLI em NodeJS<br><br>
 
 # instalacao
 
-git clone https://github.com/wcristoni/cli-todo.git 
-yarn install
-npm link
+git clone https://github.com/wcristoni/cli-todo.git<br> 
+yarn install<br>
+npm link<br><br>
 
 # uso
-cli-todo --help
-cli-todo add novaTarefa
-cli-todo list
-cli-todo do 0
+cli-todo --help<br>
+cli-todo add novaTarefa<br>
+cli-todo list<br>
+cli-todo do 0<br>
